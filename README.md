@@ -1,6 +1,6 @@
 # Prazer, me chamo Adriano Fernandes🤝  
 
-- 💻 10/10 Cursando Engenharia da Computação
+- 💻 Cursando Engenharia da Computação - 10/10
 - 👨‍💻 Desenvolvedor Web e Mobile
 
 <p align="center" style="margin-top:0; margin-bottom:0;"><br><br>
