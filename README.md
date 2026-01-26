@@ -1,6 +1,6 @@
 # Prazer, me chamo Adriano Fernandes🤝  
 
-- 💻 Formado Engenharia da Computação
+- 💻 Formado em Engenharia da Computação
 - 👨‍💻 Desenvolvedor Web e Mobile
 
 <p align="center" style="margin-top:0; margin-bottom:0;"><br><br>
@@ -14,7 +14,7 @@
 ```
 Hello, my name is Adriano Fernandes Scarabelli!
 
-I'm a Web and Mobile developer, graduating in Computer Engineering.
+I'm a Web and Mobile developer, graduated in Computer Engineering.
 
 Programming languages:
 
