@@ -55,7 +55,10 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
     <img alt="LogoCss3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli">
-    <img alt="LogoJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="LogoJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </a>
+  <a href="https://github.com/AdrianoFScarabelli">
+    <img alt="LogoTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
     <img alt="LogoDart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
