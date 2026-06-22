@@ -21,8 +21,8 @@ Programming languages:
 - Python
 - HTML
 - CSS
-- Javascript
-- Dart
+- JavaScript
+- TypeScript
 - PHP
 
 Frameworks that I use:
@@ -59,9 +59,6 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
   </a>
   <a href="https://github.com/AdrianoFScarabelli">
     <img alt="LogoTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  </a>
-  <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-    <img alt="LogoDart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
     <img alt="LogoPHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
