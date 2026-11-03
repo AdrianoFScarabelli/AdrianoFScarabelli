@@ -70,11 +70,34 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 
 <div style="display: inline_block">
 
- <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-    <img alt="LogoFlutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
- </a>
+   <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+      <img alt="LogoFlutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+   </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
         <img alt="LogoReact" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    </a>
+</div>
+
+### Ferramentas
+
+<div style="display: inline_block">
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoVScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+    </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoFigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+    </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoGit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoFirebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+    </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoNode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+    </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoVite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
     </a>
 </div>
 
