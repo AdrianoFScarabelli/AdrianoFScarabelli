@@ -101,6 +101,14 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
     </a>
 </div>
 
+### Inteligência Artificial
+
+<div style="display: inline_block">
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoClaude" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg"/>
+    </a>
+</div>
+
 ## Entre em contato comigo
 
 <div style="display: inline_block">
