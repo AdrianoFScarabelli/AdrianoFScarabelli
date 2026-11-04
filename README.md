@@ -46,19 +46,19 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 
 <div style="display: inline_block">
   <a href="https://github.com/AdrianoFScarabelli">
-    <img alt="LogoPython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img alt="LogoPython" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli">
-    <img alt="LogoHtml5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img alt="LogoHtml5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli">
-    <img alt="LogoCss3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img alt="LogoCss3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli">
-    <img alt="LogoJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="LogoJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli">
-    <img alt="LogoTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    <img alt="LogoTS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   </a>
   <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
     <img alt="LogoPHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -71,10 +71,10 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 <div style="display: inline_block">
 
    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-      <img alt="LogoFlutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+      <img alt="LogoFlutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
    </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoReact" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+        <img alt="LogoReact" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     </a>
 </div>
 
@@ -82,22 +82,22 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 
 <div style="display: inline_block">
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoVScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+        <img alt="LogoVScode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoFigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+        <img alt="LogoFigma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
     </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoGit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+        <img alt="LogoGit" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoFirebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+        <img alt="LogoFirebase" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
     </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoNode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+        <img alt="LogoNode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
     </a>
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoVite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
+        <img alt="LogoVite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
     </a>
 </div>
 
@@ -105,8 +105,14 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 
 <div style="display: inline_block">
     <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
-        <img alt="LogoClaude" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg"/>
+        <img alt="LogoGemini" height="30" width="30" src="https://github.com/user-attachments/assets/a86f4077-cb6b-4266-b636-844da1939e3f"/>
     </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoClaude" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg"/>
+    </a>
+    <a href="https://github.com/AdrianoFScarabelli" target="_blank" rel="noreferrer">
+        <img alt="LogoGPT" height="30" width="30" src="https://github.com/user-attachments/assets/23a838df-b62b-421c-ab6d-cca64c3f7458"/>
+    </a>  
 </div>
 
 ## Entre em contato comigo
