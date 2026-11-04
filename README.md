@@ -42,6 +42,8 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 
 ## Meus Conhecimentos
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianoFScarabelli&layout=compact&theme=dark)](https://github.com/AdrianoFScarabelli)
+
 ### Linguagens de programação
 
 <div style="display: inline_block">
