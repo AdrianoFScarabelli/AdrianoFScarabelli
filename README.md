@@ -1,14 +1,14 @@
 # Prazer, me chamo Adriano Fernandes🤝  
 
-- 💻 Formado em Engenharia da Computação
+- 🎓 Formado em Engenharia da Computação
 - 👨‍💻 Desenvolvedor Web e Mobile
 
 <p align="center" style="margin-top:0; margin-bottom:0;"><br><br>
   <img src="pc.gif" width="200"/>
 </p><br>
 
-<details align="center"><br>
-  <summary><strong>Click here if you speak english</strong></summary>
+<details align="center">
+<br>
 <div align="center">
 
 ```
@@ -37,7 +37,7 @@ LinkedIn: www.linkedin.com/in/adriano-fernandes-scarabelli-728a31184
 
 ```
 
-  </div>
+</div>
 </details>
 
 ## Meus Conhecimentos
